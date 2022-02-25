@@ -82,12 +82,18 @@ table {
 	color: #EA513E;
 }
 .links{
-	padding: 40px
+	padding: 40px;
 }
 .links a{
 	padding: 10px;
 	text-decoration: none;
-	color:#444444
+	color:#444444;
+}
+.firstpart i{
+	border: 1px solid #E7E7E7;
+	border-radius: 30px;
+	color: #444444;
+	background-color: #E7E7E7;
 }
 .heading{
    font-weight: 700;
@@ -317,8 +323,7 @@ h3{
 .block1 p{
 	font-size: 9px;
 	padding: 9px;
-	color: #444444;
-	
+	color: #444444;	
 }
 .sub{
 	width: 100%;
@@ -368,8 +373,13 @@ footer button{
 	font-size: 40px;
 }
 nav i{
-	padding: 20px;
+	padding: 10px;
 	color: #E7E7E7;
+	margin-left: 10px;
+}
+.profile i{
+	border: 1px solid #E7E7E7;
+	border-radius: 30px;
 }
 .col{
 	width: 68%;
@@ -392,6 +402,3 @@ h4{
 	margin-left: 20px;
 	border: 1px solid #444444;
 }
-
-
-
